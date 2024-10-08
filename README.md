@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJAlanA&hide_rank=true)](https://github.com/SJAlanA/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJAlanA&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJAlanA&hide_progress=true)
