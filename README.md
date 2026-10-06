@@ -5,20 +5,20 @@ Currently pursuing my Master of Engineering Management at **Cornell University**
  
 ---
  
-## 🔭 What I'm up to
+## What I'm up to
  
-- 🎓 Cornell MEM student, Fall 2026 cohort
-- 🧭 Moving from hands-on security engineering into TPM / TPgM roles
-- 🤝 Working on team projects around product strategy, remote-team trust, and consumer apps
-- 🔐 Still tinkering with embedded and automotive security on the side
-## 🧰 Background
+- Cornell MEM student, Fall 2026 cohort
+- Moving from hands-on security engineering into TPM / TPgM roles
+- Working on team projects around product strategy, remote-team trust, and consumer apps
+- Still tinkering with embedded and automotive security on the side
+## Background
  
 - **Marelli (via Tata Elxsi):** Cybersecurity software tester
 - **JLR:** Penetration tester
 - **CEG Tech Forum, Anna University:** Student Director, led 150+ students across 14+ projects
 - **Autonomous agricultural spraying drone:** Led a 16-person cross-domain team and owned the budget
 - **Education:** BE in Electronics and Communication Engineering, College of Engineering Guindy (CEG), Anna University
-## 🛠️ Tech and tools
+## Tech and tools
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -31,7 +31,7 @@ Currently pursuing my Master of Engineering Management at **Cornell University**
 **Automotive protocols:** CAN, LIN, FlexRay, Automotive Ethernet, UDS, XCP
 **Workflow and product:** n8n automation, Notion, Miro, monday.com
  
-## 📌 Highlights
+## Highlights
  
 | Area | What I've done |
 | --- | --- |
@@ -39,11 +39,13 @@ Currently pursuing my Master of Engineering Management at **Cornell University**
 | Leadership | Led student engineering teams and a 16-person cross-domain drone project |
 | Product and program | Building toward TPM roles through Cornell MEM coursework and team projects |
  
-## 📫 Let's connect
- 
-- 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-handle)
-- ✉️ Email: your-email@example.com
-- 🌐 Portfolio: [your-site.com](https://your-site.com)
 ---
  
-<sub>Credits on my work appear as **SJAlanA (sa2525)**.</sub>
+## About me
+ 
+- **Name:** Sahai Jordi Alan Anbu K.
+- **Based in:** Ithaca, NY
+- **Credits on my work:** SJAlanA
+- **LinkedIn:** [https://www.linkedin.com/in/sahaijordialan](https://www.linkedin.com/in/sahaijordialan)
+- **Email:** sahaijordialan@gmail.com
+- **Portfolio:** [https://sjalana.github.io/portfolio-website/](https://sjalana.github.io/portfolio-website/)
